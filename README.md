@@ -12,6 +12,10 @@ This archive contains a project that I have experienced through Java web, a proj
 *All project functions will be listed:
 
   1 Login
+     o List all books available in the system with book’s status is active and quantity greater than 0.
+     o Each book has a title, image, description, price, author, category, …
+     o User can find the book based on name or range of money or category.
+     o All users can use this function (login is not required)
  
   2 Search
 
