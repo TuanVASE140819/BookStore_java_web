@@ -1,2 +1,30 @@
-Welcome to Math Utility repository.
-Build a website to sell IT books like TIKI.VN
+## Welcome to BookStore repository.
+
+
+<!-- [![MathUtil project | CI process included | © 2021 by TuanVA](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml)   -->
+This archive contains a project that I have experienced through Java web, a project I want to share with employers and friends.
+
+
+## * _You will find interesting things in this repo: _ *
+* BookStore.sql helps you to create a database for your sales.
+* The java file helps you to run the project on java(netbeans) environment.
+* The README.md file itself displays the contents of this repo. It acts as the homepage of this repo
+*All project functions will be listed:- Login
+- Search
+- Delete
+- Update
+- Insert
+- Shopping
+- Discount code
+- Shopping history
+-Integate online payment
+-Create discount code
+
+* (TBA..) 
+
+### Connect me via:
+[My FaceBook](https://www.facebook.com/profile.php?id=100014190151009)  
+[My Email] (tuanvase140819@gmail.com)
+
+© 2021 TuanVA
+
