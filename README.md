@@ -1,7 +1,7 @@
 ## Welcome to BookStore repository.
 
-
- [![BookStore | CI process included | © 2021 by TuanVA](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml)  
+<!-- 
+ [![BookStore | CI process included | © 2021 by TuanVA](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml)   -->
 This archive contains a project that I have experienced through Java web, a project I want to share with employers and friends.
 
 
