@@ -5,7 +5,7 @@
 This archive contains a project that I have experienced through Java web, a project I want to share with employers and friends.
 
 
-## * _You will find interesting things in this repo: _ *
+## * _You will find in this repo the follwing stuff:: _ *
 * BookStore.sql helps you to create a database for your sales.
 * The java file helps you to run the project on java(netbeans) environment.
 * The README.md file itself displays the contents of this repo. It acts as the homepage of this repo
