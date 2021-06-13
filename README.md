@@ -1,12 +1,12 @@
 ## Welcome to BookStore repository.
 
 
-<!-- [![MathUtil project | CI process included | © 2021 by TuanVA](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml)   -->
+ [![BookStore | CI process included | © 2021 by TuanVA](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml)  
 This archive contains a project that I have experienced through Java web, a project I want to share with employers and friends.
 
 
 ## * _You will find in this repo the follwing stuff:: _ *
-[![MathUtil project | CI process included | © 2021 by TuanVA](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml/badge.svg)](https://github.com/TuanVASE140819/test_git/actions/workflows/mathutil-ci-actions.yml)  
+ 
 This repo offers various math methods those are used as a helper for your project.
 * BookStore.sql helps you to create a database for your sales.
 * The java file helps you to run the project on java(netbeans) environment.
