@@ -11,25 +11,25 @@ This archive contains a project that I have experienced through Java web, a proj
 * The README.md file itself displays the contents of this repo. It acts as the homepage of this repo
 *All project functions will be listed:
 
-1 Login
+  1 Login
  
-2 Search
+  2 Search
 
-3 Delete
+  3 Delete
 
-4 Update
+  4 Update
 
-5 Insert
+  5 Insert
 
-6 Shopping
+  6 Shopping
 
-7 Discount code
+  7 Discount code
 
-8 Shopping history
+  8 Shopping history
 
-9 Integate online payment
+  9 Integate online payment
 
-10 Create discount code
+  10 Create discount code
 
 
 * (TBA..) 
