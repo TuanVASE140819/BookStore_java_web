@@ -11,7 +11,9 @@ This archive contains a project that I have experienced through Java web, a proj
 * The README.md file itself displays the contents of this repo. It acts as the homepage of this repo
 *All project functions will be listed:
 1 Login
+
 2 Search
+
 3 Delete
 4 Update
 5 Insert
